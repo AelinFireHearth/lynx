@@ -1,0 +1,30 @@
+{
+  "name": "terrasen-bot",
+  "version": "2.3.6",
+  "description": "A bot made for the Terrasen discord server. https://discord.gg/GKNn8T",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "author": "Rhysand (Rhysand#2499) JSON (JSON#8975)",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.0.0",
+    "express": "^4.17.1",
+    "inquirer": "^6.3.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "querystring": "^0.2.0"
+  }
+}
+
+
+
